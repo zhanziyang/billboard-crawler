@@ -18,5 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "crawler": "^1.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1"
   }
 }
