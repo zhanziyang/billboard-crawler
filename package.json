@@ -1,0 +1,22 @@
+{
+  "name": "billboardjs",
+  "version": "1.0.0",
+  "description": "Billboard music chart unofficial API in node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "billboard",
+    "api",
+    "unofficial",
+    "chart",
+    "music",
+    "crawler"
+  ],
+  "author": "Chris Zhan",
+  "license": "MIT",
+  "dependencies": {
+    "crawler": "^1.1.2"
+  }
+}
