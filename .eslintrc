@@ -1,7 +1,16 @@
 {
   "extends": "standard",
+  "plugins": [
+    "mocha"
+  ],
+  "env": {
+    "commonjs": true,
+    "node": true,
+    "mocha": true
+  },
   "rules": {
     "camelcase": "off",
-    "semi": 0
+    "semi": 0,
+    "mocha/no-exclusive-tests": "error"
   }
 }
