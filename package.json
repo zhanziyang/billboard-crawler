@@ -7,14 +7,11 @@
     "test": "mocha",
     "test:watch": "mocha --watch"
   },
-  "keywords": [
-    "billboard",
-    "api",
-    "unofficial",
-    "chart",
-    "music",
-    "crawler"
-  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanziyang/billboard-crawler.git"
+  },
+  "keywords": ["billboard", "api", "unofficial", "chart", "music", "crawler"],
   "author": "Chris Zhan",
   "license": "MIT",
   "dependencies": {
