@@ -1,13 +1,20 @@
 {
   "name": "billboard-crawler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Billboard music chart unofficial API in node.js.",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "test:watch": "mocha --watch"
   },
-  "keywords": ["billboard", "api", "unofficial", "chart", "music", "crawler"],
+  "keywords": [
+    "billboard",
+    "api",
+    "unofficial",
+    "chart",
+    "music",
+    "crawler"
+  ],
   "author": "Chris Zhan",
   "license": "MIT",
   "dependencies": {
