@@ -1,5 +1,5 @@
 {
-  "name": "billboardjs",
+  "name": "billboard-crawler",
   "version": "1.0.0",
   "description": "Billboard music chart unofficial API in node.js.",
   "main": "index.js",
